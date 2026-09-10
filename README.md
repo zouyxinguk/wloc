@@ -1,7 +1,12 @@
 <p align="center">
   <img src="wloc.jpg" width="144" />
 </p>
-感谢Yu9191,我修改了内容
+
+感谢Yu9191,大佬的github提示404
+
+为了脚本的有效更新
+
+我修改了内容
 
 谢谢大佬
 
